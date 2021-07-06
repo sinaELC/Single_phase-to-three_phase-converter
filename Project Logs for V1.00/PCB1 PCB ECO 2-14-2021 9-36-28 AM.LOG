@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=L1-LowGate Pin=U8-9
+Removed Pin From Net: NetName=L1-HighGate Pin=U8-10
+Added Pin To Net: NetName=L1-HighGate Pin=U8-9
+Added Pin To Net: NetName=L1-LowGate Pin=U8-10
+Added Room: Name=Sheet1

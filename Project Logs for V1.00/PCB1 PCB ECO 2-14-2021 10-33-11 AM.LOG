@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=L-RST Pin=U7-2
+Added Pin To Net: NetName=L-DIO0 Pin=U7-3
+Added Pin To Net: NetName=FAN Pin=U7-38
+Added Pin To Net: NetName=L_NSS Pin=U7-42
+Added Room: Name=Sheet1

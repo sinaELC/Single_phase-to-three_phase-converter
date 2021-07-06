@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=12V_ADC Pin=U7-15
+Added Pin To Net: NetName=Current Pin=U7-16
+Added Pin To Net: NetName=VIN_ADC Pin=U7-17
+Added Pin To Net: NetName=E_WP Pin=U7-33
+Added Room: Name=Sheet1

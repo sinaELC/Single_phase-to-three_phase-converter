@@ -1,0 +1,11 @@
+Added Component: Designator=U11(AT24C02)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-4
+Added Pin To Net: NetName=E_SDA Pin=U11-5
+Added Pin To Net: NetName=E_SCL Pin=U11-6
+Added Pin To Net: NetName=E_WP Pin=U11-7
+Added Pin To Net: NetName=3.3V Pin=U11-8
+Added Member To Class: ClassName=Sheet1 Member=Component U11 AT24C02

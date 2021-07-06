@@ -1,0 +1,6 @@
+Added Component: Designator=R47(RES0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MOTOR-GND Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R47-2
+Added Member To Class: ClassName=Sheet1 Member=Component R47 1K
+Added Room: Name=Sheet1

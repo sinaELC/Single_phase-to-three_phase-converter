@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=C66(CAP 7*10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR3_1 Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetC66_1
+Added Member To Class: ClassName=Sheet1 Member=Component C66 470uF
+Added Room: Name=Sheet1

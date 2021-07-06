@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=I2C_SCL Pin=U7-21
+Removed Pin From Net: NetName=I2C_SDA Pin=U7-22
+Added Pin To Net: NetName=E_SCL Pin=U7-21
+Added Pin To Net: NetName=E_SDA Pin=U7-22
+Added Pin To Net: NetName=L-SCK Pin=U7-39
+Added Pin To Net: NetName=L-MISO Pin=U7-40
+Added Pin To Net: NetName=L-MOSI Pin=U7-41
+Added Pin To Net: NetName=I2C_SCL Pin=U7-45
+Added Pin To Net: NetName=I2C_SDA Pin=U7-46
+Change Net Name : Old Net Name=NetC64_2 New Net Name=Current
+Change Net Name : Old Net Name=NetC69_2 New Net Name=12V_ADC
+Change Net Name : Old Net Name=NetC70_2 New Net Name=VIN_ADC
+Added Pin To Net: NetName=FAN Pin=R13-1
+Added Net: Name=FAN
+Added Room: Name=Sheet1

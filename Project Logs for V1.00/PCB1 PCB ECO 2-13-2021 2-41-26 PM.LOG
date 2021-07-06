@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MotorPower Pin=CN1-3
+Removed Pin From Net: NetName=MotorPower Pin=D5-2
+Removed Pin From Net: NetName=MotorPower Pin=R1-2
+Removed Pin From Net: NetName=MotorPower Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=CN1-3
+Added Pin To Net: NetName=VCC Pin=D5-2
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Room: Name=Sheet1
